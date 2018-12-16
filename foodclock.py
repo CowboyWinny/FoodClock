@@ -56,8 +56,8 @@ class Recipe():
     pass    
 
 class Event():
-    def __init__(self, ):
-
+    def __init__(self):
+        pass
 
 class EatEvent(Event):
     pass
